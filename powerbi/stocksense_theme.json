@@ -1,0 +1,68 @@
+{
+  "name": "StockSense Corporate Theme",
+  "dataColors": [
+    "#2563EB",
+    "#10B981",
+    "#F59E0B",
+    "#EF4444",
+    "#6366F1",
+    "#0EA5E9",
+    "#8B5CF6",
+    "#EC4899"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#1E293B",
+  "tableAccent": "#2563EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": {
+              "solid": {
+                "color": "#F8FAFC"
+              }
+            }
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#1E293B"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1E293B"
+              }
+            },
+            "fontSize": 20,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#64748B"
+              }
+            },
+            "fontSize": 10,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
